@@ -1,3 +1,7 @@
+### To acess api in rest is http://localhost:3000 
+### In Graphql use the end point /graphql that way http://localhost:3000/graphql
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
