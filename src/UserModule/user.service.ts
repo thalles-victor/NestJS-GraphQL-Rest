@@ -1,17 +1,7 @@
 import { Injectable } from '@nestjs/common';
 
 import { UserInput } from './UserInputs';
-
-const users = [
-  {
-    id: 0,
-    name: 'thalles',
-  },
-  {
-    id: 1,
-    name: 'Víctor',
-  },
-];
+import { users } from './database';
 
 @Injectable()
 export class UserService {
